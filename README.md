@@ -1,6 +1,6 @@
 # Hi there, I'm Attila 👋 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Junior Software Developer and working as a DevOps Engineer!!
 
 
 - 🌱 I’m currently learning Python :snake:
