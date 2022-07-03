@@ -1,6 +1,6 @@
 # Hi there, I'm Attila 👋 
 
-## I'm a Junior Software Developer and working as a DevOps Engineer!!
+## I'm a Junior Software Developer and working as a DevOps Engineer!! :computer:
 
 
 - 🌱 I’m currently learning Python :snake:
