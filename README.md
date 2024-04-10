@@ -18,5 +18,6 @@
   <a href="https://www.redhat.com/en" target="_blank"> <img src="https://github.com/gilaattila95/icons/blob/35e9354ff6c91cd059f36e99cbea84c4d4ab575c/RedHat.svg" width="40" height="40"/> </a> 
   <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/gilaattila95/icons/blob/35e9354ff6c91cd059f36e99cbea84c4d4ab575c/Python.svg" width="40" height="40"/> </a> 
   <a href="https://cplusplus.com/" target="_blank"> <img src="https://github.com/gilaattila95/icons/blob/fac3da6dbaadfe62fdc22574b42fc343cf164374/C++.svg" width="40" height="40"/> </a> 
-  <a href="https://www.ansible.com/" target="_blank"> <img src="https://github.com/gilaattila95/icons/blob/bd27c545f312087c978d0872f3220daa6f10b8a5/Ansible.svg" width="40" height="40"/> </a> 
+  <a href="https://www.ansible.com/" target="_blank"> <img src="https://github.com/gilaattila95/icons/blob/bd27c545f312087c978d0872f3220daa6f10b8a5/Ansible.svg" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/"> <img src="https://github.com/gilaattila95/icons/blob/73b1e1e813d38a59038c30778692c4e38fbf6fc8/Azure.svg" width="40" height="40"/> </a>
 </p>
