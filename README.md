@@ -1,16 +1,21 @@
 # Hi there, I'm Attila 👋 
 
-## I'm a Software Developer and currently working as a DevOps Engineer!! 👨🏽‍💻
+## I'm a Software Developer and currently working as a DevOps Engineer!! 🧑🏽‍💻
 
-## About Me
+## About Me 👨🏽
 - I’m currently working on automating infrastructure and CI/CD pipelines using Ansible, Jenkins, Terraform, Docker, Kubernetes, AWS and Azure
 - I’m currently learning Django and Flutter
 - I’m looking to collaborate on open source projects
 - I'm open to job opportunities in software development and DevOps engineering
 - Ask me about Python, Django, Flutter, DevOps, CI/CD, Docker, Kubernetes, AWS, Azure, Ansible, Jenkins, Terraform
 
-## Ongoing Learning Journey
-- 🌱 I’m currently learning Django and Flutter
+## Skills and Experience 🛠️
+- 2+ years of experience in Linux system administration (Redhat, CentOS, Oracle Linux, SUSE, Ubuntu, Debian)
+- 3+ years of experience in DevOps engineering (Ansible, Jenkins, Terraform, Docker, Kubernetes, AWS, Azure)
+- 1+ years of experience in Software development (Python, Django, Flutter)
+
+## Ongoing Learning Journey 📚
+- I’m currently learning Django and Flutter
     - Completed Django and Flutter basics ✅
     - Completed a small Django project (Blog website) ✅
     - Completed a small Flutter project (Weather app) ✅
@@ -32,7 +37,7 @@
     - Completed a big project with Django, Flutter, REST API, Firebase and Docker (Social media app with mobile support, REST API, Firebase authentication and Docker containerization) ⏳
     - All can be found in my [GitHub](www.github.com/gilaattila95) profile
 
-## Goals
+## Goals and Achievements 🎯
 - 🥅 2024 Goals: Learn more about Python and Contenerizations  ✅
     - Learned Python basics and OOP
     - Learned Docker and Kubernetes basics
@@ -40,20 +45,20 @@
     - Created several Docker containers and Kubernetes clusters
 - 🥅 2025 Goals: Learn more about Django and Flutter 
 
-## Hobbies and Interests
-- Traveling :airplane:
+## Hobbies and Interests 
+- Traveling :airplane: :island:
 - Motorcycles :motorcycle:
 - Extreme sports :snowboarder:
 - Reading Sci-Fi or Fantasy :books:
 - Video games making :video_game:
 
 
-🔗 &nbsp;**Connect with me**
+## Contact Me 🔗
 
 <a href="https://www.linkedin.com/in/attila-zoltan-gila/" target="blank"><img align="center" src="https://github.com/gilaattila95/icons/blob/35e9354ff6c91cd059f36e99cbea84c4d4ab575c/LinkedIn.svg" height="30" width="40" /></a>
 <a href="https://instagram.com/gilucii" target="blank"><img align="center" src="https://github.com/gilaattila95/icons/blob/35e9354ff6c91cd059f36e99cbea84c4d4ab575c/Instagram.svg" height="30" width="40" /></a>
 
-🛠️ &nbsp;Languages&nbsp;and&nbsp;Tools
+## Programming Languages and Tools 🧰
 
 <!--- Python -->
 <a href="https://www.python.org/" target="blank">
