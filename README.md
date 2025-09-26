@@ -41,11 +41,11 @@
 - 🥅 2025 Goals: Learn more about Django and Flutter 
 
 ## Hobbies and Interests
-#### Traveling :airplane:
-#### Motorcycles :motorcycle:
-#### Extreme sports :skydiving:
-#### Reading Sci-Fi or Fantasy :books:
-#### Video games making :video_game:
+- Traveling :airplane:
+- Motorcycles :motorcycle:
+- Extreme sports :snowboarder:
+- Reading Sci-Fi or Fantasy :books:
+- Video games making :video_game:
 
 
 🔗 &nbsp;**Connect with me**
