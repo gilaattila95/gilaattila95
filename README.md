@@ -35,7 +35,7 @@
     - Completed a small project with Django, Flutter, REST API, Firebase and Docker (Blog app with mobile support, REST API, Firebase authentication and Docker containerization) ✅
     - Completed a medium project with Django, Flutter, REST API, Firebase and Docker (E-commerce app with mobile support, REST API, Firebase authentication and Docker containerization) ⏳
     - Completed a big project with Django, Flutter, REST API, Firebase and Docker (Social media app with mobile support, REST API, Firebase authentication and Docker containerization) ⏳
-    - All can be found in my [GitHub](www.github.com/gilaattila95) profile
+    - All can be found in my [GitHub](django_flutter_projects) profile
 
 ## Goals and Achievements 🎯
 - 🥅 2024 Goals: Learn more about Python and Contenerizations  ✅
